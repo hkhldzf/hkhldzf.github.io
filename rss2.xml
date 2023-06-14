@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VectorBlog</title>
-    <link>https://vectorblog.github.io/</link>
+    <link>https://hkhldzf.github.io/</link>
     
-    <atom:link href="https://vectorblog.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://hkhldzf.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>天道酬勤</description>
     <pubDate>Wed, 14 Jun 2023 07:01:55 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://vectorblog.github.io/2023/06/14/hello-world/</link>
-      <guid>https://vectorblog.github.io/2023/06/14/hello-world/</guid>
+      <link>https://hkhldzf.github.io/2023/06/14/hello-world/</link>
+      <guid>https://hkhldzf.github.io/2023/06/14/hello-world/</guid>
       <pubDate>Tue, 13 Jun 2023 16:53:00 GMT</pubDate>
       
         
@@ -31,7 +31,7 @@
       
       
       
-      <comments>https://vectorblog.github.io/2023/06/14/hello-world/#disqus_thread</comments>
+      <comments>https://hkhldzf.github.io/2023/06/14/hello-world/#disqus_thread</comments>
       
     </item>
     
